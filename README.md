@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abinandan
 #### Machine Learning Engineer, Competitive Coder C++
-![Machine Learning Engineer, Competitive Coder C++](https://github.com/Abinandan314/Real-Estate-Price-Prediction-Model/blob/main/banner%20(1).png)
+![Machine Learning Engineer, Competitive Coder C++](https://github.com/Abinandan314/Real-Estate-Price-Prediction-Model/blob/main/1.png)
 
 
 Skills: C++ / AWS Quicksight / Machine Learning / Deep Learning 
