@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Abinandan
-#### Machine Learning Engineer, Competitive Coder C++
+#### Software Dev, Competitive Coder C++
 ![Machine Learning Engineer, Competitive Coder C++](https://github.com/Abinandan314/Real-Estate-Price-Prediction-Model/blob/main/1.png)
 
 
